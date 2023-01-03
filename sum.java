@@ -6,5 +6,6 @@ class sum
         int b=20;
         int sum=a+b;
         System.out.println("The Sum of the Result is: "+sum);
+        System.out.println("I love Git Hub");
     }
 }
